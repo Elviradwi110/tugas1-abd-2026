@@ -12,6 +12,7 @@ __pycache__/
 
 # Dataset besar
 data/raw/
+data/processed/
 
 # Output sementara
 *.log
