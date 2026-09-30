@@ -1,5 +1,6 @@
 polars
 duckdb
 plotly
+numpy
 jupyter
 ipykernel

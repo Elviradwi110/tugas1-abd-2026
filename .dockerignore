@@ -1,0 +1,26 @@
+# Dataset besar
+data/raw/
+data/processed/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Output sementara
+*.log
